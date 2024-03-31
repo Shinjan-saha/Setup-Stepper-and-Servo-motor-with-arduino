@@ -1,4 +1,4 @@
-# LM 35 ThinkSpeak Server Temperature Reading
+# Setup Stepper Motor with Arduino
 
 
 ### Here by Using Arduino-UNO, ULN2003 Driver motor & Stepper Motor we can do simple functions with motor like rotate it in one direction & rotate in 2 direction with half cycle.
