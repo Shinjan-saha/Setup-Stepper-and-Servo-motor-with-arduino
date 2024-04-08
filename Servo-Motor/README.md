@@ -36,5 +36,5 @@
 
 # See the Working Video
 
-[Stepper Motor Video](../img/servo.mp4)
+[Stepper Motor Video](https://youtu.be/m5obOAxk2gA?si=zeTRvSfv-fTF8FOn)
 

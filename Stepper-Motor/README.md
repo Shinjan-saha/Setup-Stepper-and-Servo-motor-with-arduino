@@ -34,6 +34,6 @@
 
 # See the Working Video
 
-[Bidirectional Video](../img/bidirectional.mp4)
+[Bidirectional Video](https://youtube.com/shorts/Uwmggl_WnNQ?feature=share)
 
-[Unidirectional Video](../img/unidirectional.mp4)
+[Unidirectional Video](https://youtube.com/shorts/x2EdMbb_PLo?feature=share)
