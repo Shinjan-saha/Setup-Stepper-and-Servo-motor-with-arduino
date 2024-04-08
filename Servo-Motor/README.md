@@ -33,3 +33,8 @@
 <li> Jumper Wire (Male-Female & Male-Male)</li>
 <li> USB Cabel </li>
 </ul>
+
+# See the Working Video
+
+[Stepper Motor Video](../img/servo.mp4)
+

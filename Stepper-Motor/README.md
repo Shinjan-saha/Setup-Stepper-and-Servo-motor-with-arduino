@@ -31,3 +31,9 @@
 <li> Jumper Wire (Male-Female)</li>
 <li> USB Cabel </li>
 </ul>
+
+# See the Working Video
+
+[Bidirectional Video](../img/bidirectional.mp4)
+
+[Unidirectional Video](../img/unidirectional.mp4)
